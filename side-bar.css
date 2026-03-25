@@ -1,0 +1,18 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 85px;
+    background-color: #0f0f0f;
+    width: 60px;
+}
+
+.sidebar-buttons {
+    margin-top: 50px;
+}
+
+.sidebar-icons {
+    margin-left: 5px;
+    margin-bottom: 50px;
+    width: 60px;
+}
